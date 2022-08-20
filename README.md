@@ -24,7 +24,7 @@ Currently I have been working on projects involving Javascript, React and NextJs
 
 </br>
 
-- 🔭 I’m currently working remotly at Marlin/RJ as a frontend developer.
+- 🔭 I’m currently working remotly at Startup Popay as a fullstack developer.
 - 🌱 I’m currently studying English, advanced javascript knowledge, Node, ReactJS and NextJS.
 - 📫 Send me a message on: renanlido@yahoo.com.br
 
